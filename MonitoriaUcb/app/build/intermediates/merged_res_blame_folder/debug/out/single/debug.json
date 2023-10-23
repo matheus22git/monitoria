@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_baseline_arrow_right_alt_24.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\baseline_arrow_right_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-35:/layout_servicos_item.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-37:/layout/servicos_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_img3.png.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\img3.png"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_img1.png.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\img1.png"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_activity_agendamento.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\activity_agendamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_activity_monitores.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\activity_monitores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_services_item.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\services_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_img4.png.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\img4.png"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_img2.png.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\img2.png"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\layout_activity_ucb.xml.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\layout\\activity_ucb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Guste\\.gradle\\daemon\\8.0\\com.wezz.monitoriaucb.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]

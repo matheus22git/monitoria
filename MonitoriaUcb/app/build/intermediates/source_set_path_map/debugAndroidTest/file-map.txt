@@ -1,0 +1,6 @@
+com.wezz.monitoriaucb.test.app-core-1.5.0-0 C:\Users\Guste\.gradle\caches\transforms-3\4b1f0787700ccd7ac6c94a26acbfa747\transformed\core-1.5.0\res
+com.wezz.monitoriaucb.test.app-annotation-experimental-1.3.0-1 C:\Users\Guste\.gradle\caches\transforms-3\70d510d1ea77f94adf002972dd3d1d16\transformed\annotation-experimental-1.3.0\res
+com.wezz.monitoriaucb.test.app-androidTest-2 D:\MonitoriaUcb\app\build\generated\res\resValues\androidTest\debug
+com.wezz.monitoriaucb.test.app-mergeDebugAndroidTestResources-3 D:\MonitoriaUcb\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.wezz.monitoriaucb.test.app-mergeDebugAndroidTestResources-4 D:\MonitoriaUcb\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.wezz.monitoriaucb.test.app-merged_res-5 D:\MonitoriaUcb\app\build\intermediates\merged_res\debugAndroidTest
